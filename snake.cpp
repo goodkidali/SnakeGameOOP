@@ -212,7 +212,7 @@ int main()
         }
         snake.Move();
 
-    } while (op != 'e');
+    } while (op != 'q');
 
     return 0;
 }
